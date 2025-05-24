@@ -20,6 +20,8 @@ Esta análise faz parte da atividade da disciplina Introdução Ao Coding (Mobil
 ├── captura_console/                # Prints da execução no console
 |   ├── print1.png
 │   └── print2.png
+|
+├── LICENSE                         # Licença do projeto
 │
 └── README.md                       # Este arquivo
 ```
